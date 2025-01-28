@@ -27,4 +27,4 @@ const veiculos = [
 
 veiculos.forEach((veiculo) => {
     veiculo.info()
-});
+});;
